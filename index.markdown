@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![image][./logo.png]
+![](./images/logo.png?raw=true)
