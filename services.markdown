@@ -4,15 +4,20 @@ title: Services
 permalink: /services/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We love to create a safe and confortable environment where we can provide special and personal care including:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- advanced age
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- dementia and Alzheimer's disease
 
+- degenerative disorders like MS and ALS
 
-[jekyll-organization]: https://github.com/jekyll
+- post-surgery like joint replacement
+
+- chronic conditions
+
+and more.
+
+We cook fresh delicious meals.
+
+We administer and order supply and medication for your loved ones.
