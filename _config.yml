@@ -23,8 +23,8 @@ email: performancequalitycare@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Adult Family Home located in Lynnwood, WA.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://razconsta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/performance-quality-care" # the subpath of your site, e.g. /blog
+url: "razconsta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 # facebook: pages/Performance%20Quality%20Care%20Service./101988809406766/
