@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Adult Family Home located in Lynnwood, WA.
 
 baseurl: "/performance-quality-care-website" # the subpath of your site, e.g. /blog
-url: "http://razconsta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://razconsta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 # facebook: pages/Performance%20Quality%20Care%20Service./101988809406766/
